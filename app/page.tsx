@@ -233,7 +233,7 @@ export default function Home() {
 
               <div className="flex flex-col sm:flex-row gap-4">
                 <a
-                  href="https://apps.apple.com"
+                  href="https://apps.apple.com/us/app/skyline-hub/id6758091952"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="group inline-flex items-center justify-center px-8 py-4 bg-red-500 hover:bg-red-600 text-white font-heavy text-sm tracking-widest uppercase rounded-xl transition-all duration-300 glow-red hover:glow-red-strong hover-lift"
